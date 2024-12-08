@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<person gender="female">
+  <name>ashuu</name>
+  <country>somali</country>
+  <city>mogadisho</city>
+  <skills>
+    <skill>JavaScrip</skill>
+    <skill>React</skill>
+    <skill>Python</skill>
+  </skills>
+</person>
+
+
